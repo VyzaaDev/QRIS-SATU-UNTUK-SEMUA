@@ -1,5 +1,4 @@
-<img width="1240" height="1748" alt="1000227570" src="https://github.com/user-attachments/assets/1d47cc4b-d1ba-4603-b09c-2debc2397537" />
-
+<img width="3221" height="3264" alt="1000227614" src="https://github.com/user-attachments/assets/0809dcc4-c85d-486c-a5da-fff293d02b1f" />
 
 <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=SCAN+QRIS+UNTUK+MEMBAYAR😊"
