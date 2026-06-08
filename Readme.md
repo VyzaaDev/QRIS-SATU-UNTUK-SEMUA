@@ -1,5 +1,4 @@
-<img width="2838" height="4000" alt="1000164767" src="https://github.com/user-attachments/assets/38d126e6-f1d3-4297-b495-800fff3a4675" />
-<img width="1240" height="1748" alt="1000227570" src="https://github.com/user-attachments/assets/c3ef8a03-503b-4d6b-ba54-102c313fd7c7" />
+https://github.com/user-attachments/assets/c3ef8a03-503b-4d6b-ba54-102c313fd7c7
 
 <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=SCAN+QRIS+UNTUK+MEMBAYAR😊"
@@ -8,6 +7,7 @@
     </a>
 </p>
 </div>
+
 ### Payment Lain :
 
 ### - Dana
