@@ -11,12 +11,12 @@
 ### Payment Lain :
 
 ### - Dana
-`083125395386`
+•`083125395386`
 ### - Gopay
-`083125395386`
+•`083125395386`
 ### - SeaBank
-`901866656380`
+•`901866656380`
 ### - Bank Mandiri
-`1140032717509`
+•`1140032717509`
 
 `Berikut Adalah Metode Pembayaran Kami, Selain Di Atas Adalah Clone`
