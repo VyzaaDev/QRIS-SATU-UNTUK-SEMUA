@@ -17,4 +17,4 @@
 ### Bank Mandiri
 - 1140032717509
 
-`Bejshs`
+`Berikut Adalah Metode Pembayaran, Selain Payment Di Atas Bukan Lagi Punya Mimin.`
