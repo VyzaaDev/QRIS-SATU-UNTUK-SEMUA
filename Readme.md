@@ -19,4 +19,4 @@
 ### - Bank Mandiri
 - 1140032717509
 
-`Berikut Adalah Metode Pembayaran, Selain Payment Di Atas Bukan Lagi Punya Mimin.`
+`Berikut Adalah Metode Pembayaran Kami, Selain Di Atas Adalah Clone`
