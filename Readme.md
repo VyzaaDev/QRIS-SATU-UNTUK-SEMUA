@@ -16,7 +16,7 @@
 - 083125395386
 ### - SeaBank
 - 901866656380
-### Bank Mandiri
+### - Bank Mandiri
 - 1140032717509
 
 `Berikut Adalah Metode Pembayaran, Selain Payment Di Atas Bukan Lagi Punya Mimin.`
