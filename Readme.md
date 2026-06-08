@@ -17,6 +17,5 @@
 ### - SeaBank
 - 901866656380
 ### - Bank Mandiri
-- 1140032717509
 
 `Berikut Adalah Metode Pembayaran Kami, Selain Di Atas Adalah Clone`
